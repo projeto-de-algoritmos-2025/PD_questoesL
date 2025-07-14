@@ -3,7 +3,7 @@
 # Exercícios LeetCode
 
 - **Conteúdo da Disciplina**: Programação Dinâmica <br>
-- [**Vídeo da Apresentação**]() <br>
+- [**Vídeo da Apresentação**](https://youtu.be/eGcEZ4vAoRE) <br>
 
 ## Alunos
 |Matrícula | Aluno |GitHub|
@@ -12,7 +12,7 @@
 
 
 ## Vídeo da Apresentação
-Acesse o vídeo das questões [clicando aqui]().
+Acesse o vídeo das questões [clicando aqui](https://youtu.be/eGcEZ4vAoRE).
 
 ## Sobre 
 Este repositório tem como objetivo resolver exercícios sobre programação dinâmica do [LeetCode](https://leetcode.com/problem-list/dynamic-programming/).
